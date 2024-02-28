@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ AI/ML Data Scientist with an emphasis on Ambient Computing
+⚡ AI/ML Data Scientist with an emphasis on Ambient and Spatial Computing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/talbert-andre) 
